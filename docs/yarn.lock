@@ -6076,7 +6076,7 @@ __metadata:
     clsx: ^1.2.1
     cspell: ^6.18.1
     docusaurus-plugin-sass: ^0.2.2
-    dompurify: ^3.1.5
+    dompurify: ^3.4.9
     graphiql: ^1.5.1
     graphql: ^15.7.2
     graphql-ws: ^5.11.2
@@ -6173,15 +6173,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^3.1.5":
-  version: 3.2.4
-  resolution: "dompurify@npm:3.2.4"
+"dompurify@npm:^3.4.9":
+  version: 3.4.9
+  resolution: "dompurify@npm:3.4.9"
   dependencies:
     "@types/trusted-types": ^2.0.7
   dependenciesMeta:
     "@types/trusted-types":
       optional: true
-  checksum: 7a299cbbfe3b3d189e5fc77ab94ad312807e37fda1e24a927548b76a58a9c98137e612ce8d94a2f6cd3d3db59844f14fca477676b5eae6103568a82142771df6
+  checksum: d3c4c64aad2775c3f59ff199bc1782e8dbd24f86912ef1a6c4e29398b9c336afd8e480364c48197c44dbf9594431a5a8b538ae5aebc668908e3218568e714b42
   languageName: node
   linkType: hard
 
