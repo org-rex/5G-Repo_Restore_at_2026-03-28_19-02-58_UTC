@@ -131,7 +131,7 @@ opentelemetry-otlp = { version = "0.31", features = ["grpc-tonic", "trace"] }
 opentelemetry-semantic-conventions = "0.31"
 opentelemetry-stdout = { version = "0.31", default-features = false, features = ["trace"] }
 opentelemetry-zipkin = "0.31"
-opentelemetry_sdk = { version = "0.31", features = ["rt-tokio"] }
+opentelemetry_sdk = { version = "0.32", features = ["rt-tokio"] }
 partition_eithers = "0.1.0"
 postcard = { version = "1", features = ["use-std"] }
 pretty_assertions = "1"
