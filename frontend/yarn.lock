@@ -33124,13 +33124,13 @@ __metadata:
   linkType: hard
 
 "socket.io-parser@npm:~3.3.0":
-  version: 3.3.3
-  resolution: "socket.io-parser@npm:3.3.3"
+  version: 3.3.6
+  resolution: "socket.io-parser@npm:3.3.6"
   dependencies:
     component-emitter: ~1.3.0
     debug: ~3.1.0
     isarray: 2.0.1
-  checksum: 6cf464e324e4207811dbf994822c0aa18ba01d615fbed8e3f069927e0e402fdc9b3ac3d2657f18d481fb8c584b1fd40152ced15b3686982a51ec843c6a76dbc2
+  checksum: 58282f791bfeb013fbc23dc6ea9e4c0bfa9dd060958b76421f29bfcefd64646b7d3e992fa0ca9c6b4817c1fa64cc396adc702f73272dd323408c2431e6a33d1c
   languageName: node
   linkType: hard
 
