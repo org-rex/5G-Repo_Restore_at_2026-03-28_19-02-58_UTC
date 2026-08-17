@@ -16673,10 +16673,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"deepmerge-ts@npm:4.2.2":
-  version: 4.2.2
-  resolution: "deepmerge-ts@npm:4.2.2"
-  checksum: 137c3650519d9b1a220db7e23a3f56304cd02e7f97b2b8392e2767251055a29318425bacdb2ab2ff175a4645f7179643acf0e038d5dafbfdbc11bdf322f79697
+"deepmerge-ts@npm:8.0.0":
+  version: 8.0.0
+  resolution: "deepmerge-ts@npm:8.0.0"
+  checksum: c3079bab1b8f560ed56abc51a107a6794ab4db310fa362deb0eda96a200de261e6ef8ffe8e5327a487a1a68a2e82919bf3a9239c67eecf7cf997e57de72b912e
   languageName: node
   linkType: hard
 
@@ -19781,7 +19781,7 @@ __metadata:
     dayjs: ^1.11.7
     dedent: 0.7.0
     deep-equal: 1.1.1
-    deepmerge-ts: 4.2.2
+    deepmerge-ts: 8.0.0
     dom-parser: 0.1.6
     dotenv: 5.0.1
     eslint: ~8.15.0
